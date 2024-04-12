@@ -1,0 +1,11 @@
+domain:
+- domains/*
+
+scripts:
+- scripts/**
+
+readme:
+- "README.md"
+
+workflows:
+- .github/workflows/**
