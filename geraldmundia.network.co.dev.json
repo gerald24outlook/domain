@@ -1,0 +1,14 @@
+{
+    "domain": "network.co.dev",
+    "subdomain": "network.co.zm",
+
+    "owner": {
+        "email": "geraldmundia24@outlook.com"
+    },
+
+    "records": {
+        "CNAME": "https://gerald24outlook.github.io/govcoannetwork/index.html"
+    },
+
+    "proxied": true
+}
